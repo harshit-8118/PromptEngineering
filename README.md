@@ -1,5 +1,7 @@
 # PromptLab — live prompt-engineering demo
 
+## WEBSITE: [https://prompt-eng.streamlit.app/](https://prompt-eng.streamlit.app/)
+
 A small Streamlit teaching app that compares baseline and engineered prompts using real Gemini responses. It includes zero-shot, few-shot, system-instruction, context, structured-output, and image-prompt demonstrations using two fixed educational chest X-rays.
 
 ## 1. Get a Gemini API key
